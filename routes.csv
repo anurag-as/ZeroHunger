@@ -1,0 +1,25 @@
+India,Afghanistan,1850,R
+India,China,2982,R
+India,Australia,7809,A
+India,Kenya,5013,A
+India,South Africa,8250,A
+China,Russian Federation,2982,R
+China,Japan,3045,A
+Russian Federation,Japan,3627,A
+Russian Federation,United States of America,8881,A
+Japan,Republic of Korea,926,A
+Japan,United States of America,10144,A
+Japan,Australia,6848,A
+Republic of Korea,Australia,7020,A
+Afghanistan,Iraq,2221,R
+Afghanistan,Syrian Arab Republic,2626,A
+Iraq,Syrian Arab Republic,606,R
+Syrian Arab Republic,Greece,2341,R
+Syrian Arab Republic,Kenya,5831,R
+South Africa,Kenya,4380,R
+South Africa,Brazil,7772,A
+Greece,Spain,3469,A
+Greece,France,2630,R
+France,Spain,1006,R
+France,United States of America,7661,A
+United States of America,Brazil,14389,A
