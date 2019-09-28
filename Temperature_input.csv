@@ -1,0 +1,848 @@
+Area,Area Code,Year,Value
+Afghanistan,2,1961,-0.059
+Afghanistan,2,1962,-0.154
+Afghanistan,2,1963,0.82
+Afghanistan,2,1964,-0.728
+Afghanistan,2,1965,0.001
+Afghanistan,2,1966,0.169
+Afghanistan,2,1967,-0.357
+Afghanistan,2,1968,-0.309
+Afghanistan,2,1969,-0.464
+Afghanistan,2,1970,0.853
+Afghanistan,2,1971,0.605
+Afghanistan,2,1972,-1.098
+Afghanistan,2,1973,0.059
+Afghanistan,2,1974,-0.741
+Afghanistan,2,1975,-0.792
+Afghanistan,2,1976,-0.298
+Afghanistan,2,1977,0.513
+Afghanistan,2,1978,0.258
+Afghanistan,2,1979,0.42
+Afghanistan,2,1980,0.747
+Afghanistan,2,1981,0.628
+Afghanistan,2,1982,-0.164
+Afghanistan,2,1983,0.318
+Afghanistan,2,1984,0.333
+Afghanistan,2,1985,0.336
+Afghanistan,2,1986,0.124
+Afghanistan,2,1987,0.572
+Afghanistan,2,1988,1.242
+Afghanistan,2,1989,-0.055
+Afghanistan,2,1990,1.056
+Afghanistan,2,1991,-0.009
+Afghanistan,2,1992,-0.166
+Afghanistan,2,1993,0.654
+Afghanistan,2,1996,0.334
+Afghanistan,2,1997,0.833
+Afghanistan,2,1998,0.887
+Afghanistan,2,1999,1.703
+Afghanistan,2,2000,1.379
+Afghanistan,2,2001,1.717
+Afghanistan,2,2002,1.563
+Afghanistan,2,2003,0.854
+Afghanistan,2,2004,1.625
+Afghanistan,2,2005,1.025
+Afghanistan,2,2006,1.959
+Afghanistan,2,2007,1.232
+Afghanistan,2,2008,1.202
+Afghanistan,2,2009,1.633
+Afghanistan,2,2010,1.881
+Afghanistan,2,2011,1.787
+Afghanistan,2,2012,0.722
+Afghanistan,2,2013,1.251
+Afghanistan,2,2014,1.299
+Afghanistan,2,2015,1.414
+Australia,10,1961,0.119
+Australia,10,1962,0.109
+Australia,10,1963,-0.146
+Australia,10,1964,-0.063
+Australia,10,1965,0.069
+Australia,10,1966,-0.258
+Australia,10,1967,-0.039
+Australia,10,1968,-0.197
+Australia,10,1969,0.072
+Australia,10,1970,-0.089
+Australia,10,1971,-0.096
+Australia,10,1972,0.071
+Australia,10,1973,0.823
+Australia,10,1974,-0.227
+Australia,10,1975,0.149
+Australia,10,1976,-0.378
+Australia,10,1977,0.288
+Australia,10,1978,0.132
+Australia,10,1979,0.357
+Australia,10,1980,0.852
+Australia,10,1981,0.439
+Australia,10,1982,0.254
+Australia,10,1983,0.647
+Australia,10,1984,-0.145
+Australia,10,1985,0.337
+Australia,10,1986,0.298
+Australia,10,1987,0.327
+Australia,10,1988,0.914
+Australia,10,1989,0.127
+Australia,10,1990,0.52
+Australia,10,1991,0.783
+Australia,10,1992,0.194
+Australia,10,1993,0.45
+Australia,10,1994,0.223
+Australia,10,1995,0.386
+Australia,10,1996,0.537
+Australia,10,1997,0.309
+Australia,10,1998,0.926
+Australia,10,1999,0.599
+Australia,10,2000,0.193
+Australia,10,2001,0.159
+Australia,10,2002,0.402
+Australia,10,2003,0.735
+Australia,10,2004,0.681
+Australia,10,2005,1.07
+Australia,10,2006,0.71
+Australia,10,2007,0.936
+Australia,10,2008,0.536
+Australia,10,2009,1.002
+Australia,10,2010,0.7
+Australia,10,2011,0.503
+Australia,10,2012,0.403
+Australia,10,2013,1.414
+Australia,10,2014,1.246
+Australia,10,2015,1.051
+Brazil,21,1961,1.174
+Brazil,21,1962,0.257
+Brazil,21,1963,-0.199
+Brazil,21,1964,0.187
+Brazil,21,1965,-0.197
+Brazil,21,1966,-0.098
+Brazil,21,1967,0.053
+Brazil,21,1968,0.063
+Brazil,21,1969,-0.205
+Brazil,21,1970,0.25
+Brazil,21,1971,0.171
+Brazil,21,1972,-0.217
+Brazil,21,1973,0.182
+Brazil,21,1974,0.253
+Brazil,21,1975,-0.292
+Brazil,21,1976,-0.199
+Brazil,21,1977,-0.248
+Brazil,21,1978,0.3
+Brazil,21,1979,0.135
+Brazil,21,1980,0.065
+Brazil,21,1981,0.298
+Brazil,21,1982,0.248
+Brazil,21,1983,0.316
+Brazil,21,1984,0.512
+Brazil,21,1985,0.299
+Brazil,21,1986,0.181
+Brazil,21,1987,0.393
+Brazil,21,1988,0.63
+Brazil,21,1989,0.484
+Brazil,21,1990,0.209
+Brazil,21,1991,0.484
+Brazil,21,1992,0.57
+Brazil,21,1993,0.488
+Brazil,21,1994,0.51
+Brazil,21,1995,0.6
+Brazil,21,1996,0.825
+Brazil,21,1997,0.542
+Brazil,21,1998,0.752
+Brazil,21,1999,1.272
+Brazil,21,2000,0.626
+Brazil,21,2001,0.521
+Brazil,21,2002,0.833
+Brazil,21,2003,1.121
+Brazil,21,2004,0.909
+Brazil,21,2005,0.852
+Brazil,21,2006,1.171
+Brazil,21,2007,0.917
+Brazil,21,2008,0.95
+Brazil,21,2009,0.71
+Brazil,21,2010,0.875
+Brazil,21,2011,1.178
+Brazil,21,2012,0.796
+Brazil,21,2013,1.053
+Brazil,21,2014,0.988
+Brazil,21,2015,1.085
+China,351,1961,0.276
+China,351,1962,-0.122
+China,351,1963,0.287
+China,351,1964,-0.014
+China,351,1965,0.089
+China,351,1966,0.182
+China,351,1967,-0.281
+China,351,1968,-0.409
+China,351,1969,-0.221
+China,351,1970,-0.32
+China,351,1971,0.013
+China,351,1972,0
+China,351,1973,0.396
+China,351,1974,-0.029
+China,351,1975,0.282
+China,351,1976,-0.428
+China,351,1977,-0.09
+China,351,1978,0.227
+China,351,1979,0.274
+China,351,1980,0.235
+China,351,1981,0.204
+China,351,1982,0.366
+China,351,1983,0.119
+China,351,1984,-0.182
+China,351,1985,-0.161
+China,351,1986,-0.049
+China,351,1987,0.414
+China,351,1988,0.367
+China,351,1989,0.453
+China,351,1990,0.871
+China,351,1991,0.521
+China,351,1992,0.138
+China,351,1993,0.271
+China,351,1994,0.743
+China,351,1995,0.675
+China,351,1996,0.174
+China,351,1997,0.884
+China,351,1998,1.223
+China,351,1999,1.202
+China,351,2000,0.592
+China,351,2001,1.094
+China,351,2002,1.176
+China,351,2003,0.698
+China,351,2004,1.1
+China,351,2005,0.881
+China,351,2006,1.003
+China,351,2007,1.306
+China,351,2008,0.868
+China,351,2009,1.119
+China,351,2010,0.759
+China,351,2011,0.614
+China,351,2012,0.49
+China,351,2013,0.929
+China,351,2014,1.161
+China,351,2015,1.234
+France,68,1961,1.288
+France,68,1962,0.792
+France,68,1963,-0.305
+France,68,1964,-0.976
+France,68,1965,0.012
+France,68,1966,-0.722
+France,68,1967,0.317
+France,68,1968,0.419
+France,68,1969,-0.143
+France,68,1970,-0.087
+France,68,1971,-0.174
+France,68,1972,-0.081
+France,68,1973,-0.256
+France,68,1974,0.159
+France,68,1975,-0.056
+France,68,1976,0.55
+France,68,1977,0.468
+France,68,1978,0.042
+France,68,1979,-0.173
+France,68,1980,-0.103
+France,68,1981,-0.16
+France,68,1982,0.115
+France,68,1983,0.757
+France,68,1984,0.721
+France,68,1985,-0.11
+France,68,1986,-0.37
+France,68,1987,-0.067
+France,68,1988,-0.111
+France,68,1989,0.671
+France,68,1990,1.232
+France,68,1991,1.51
+France,68,1992,0.243
+France,68,1993,0.553
+France,68,1994,0.272
+France,68,1995,1.53
+France,68,1996,1.321
+France,68,1997,0.196
+France,68,1998,1.232
+France,68,1999,0.892
+France,68,2000,1.171
+France,68,2001,1.145
+France,68,2002,1.231
+France,68,2003,0.913
+France,68,2004,1.75
+France,68,2005,0.846
+France,68,2006,0.84
+France,68,2007,1.173
+France,68,2008,1.19
+France,68,2009,0.799
+France,68,2010,1.067
+France,68,2011,0.265
+France,68,2012,1.39
+France,68,2013,1.076
+France,68,2014,0.558
+France,68,2015,1.832
+Greece,84,1961,0.488
+Greece,84,1962,0.606
+Greece,84,1963,0.253
+Greece,84,1964,-0.369
+Greece,84,1965,-0.404
+Greece,84,1966,0.752
+Greece,84,1967,-0.218
+Greece,84,1968,0.116
+Greece,84,1969,-0.087
+Greece,84,1970,0.267
+Greece,84,1971,-0.243
+Greece,84,1972,-0.23
+Greece,84,1973,-0.324
+Greece,84,1974,-0.151
+Greece,84,1975,-0.247
+Greece,84,1976,-0.869
+Greece,84,1977,0.343
+Greece,84,1978,-0.479
+Greece,84,1979,0.216
+Greece,84,1980,-0.401
+Greece,84,1981,-0.13
+Greece,84,1982,-0.193
+Greece,84,1983,-0.429
+Greece,84,1984,-0.091
+Greece,84,1985,0.027
+Greece,84,1986,0.344
+Greece,84,1987,-0.38
+Greece,84,1988,0.106
+Greece,84,1989,-0.203
+Greece,84,1990,0.363
+Greece,84,1991,-0.306
+Greece,84,1992,-0.571
+Greece,84,1993,-0.36
+Greece,84,1994,1.002
+Greece,84,1995,0.027
+Greece,84,1996,-0.141
+Greece,84,1997,-0.202
+Greece,84,1998,0.591
+Greece,84,1999,0.805
+Greece,84,2000,0.704
+Greece,84,2001,1.348
+Greece,84,2002,0.399
+Greece,84,2003,0.43
+Greece,84,2004,0.293
+Greece,84,2005,0.176
+Greece,84,2006,0.136
+Greece,84,2007,0.914
+Greece,84,2008,0.735
+Greece,84,2009,0.645
+Greece,84,2010,1.429
+Greece,84,2011,0.17
+Greece,84,2012,1.158
+Greece,84,2013,1.198
+Greece,84,2014,0.875
+Greece,84,2015,0.9
+India,100,1961,-0.148
+India,100,1962,-0.312
+India,100,1963,-0.018
+India,100,1964,-0.051
+India,100,1965,-0.103
+India,100,1966,0.28
+India,100,1967,-0.229
+India,100,1968,-0.199
+India,100,1969,0.312
+India,100,1970,0.051
+India,100,1971,-0.459
+India,100,1972,-0.024
+India,100,1973,0.257
+India,100,1974,-0.05
+India,100,1975,-0.349
+India,100,1976,-0.08
+India,100,1977,0.112
+India,100,1978,-0.069
+India,100,1979,0.37
+India,100,1980,0.473
+India,100,1981,0.132
+India,100,1982,0.019
+India,100,1983,-0.109
+India,100,1984,-0.095
+India,100,1985,0.223
+India,100,1986,0.188
+India,100,1987,0.583
+India,100,1988,0.594
+India,100,1989,0.143
+India,100,1990,0.075
+India,100,1991,0.328
+India,100,1992,0.175
+India,100,1993,0.416
+India,100,1994,0.26
+India,100,1995,0.324
+India,100,1996,0.442
+India,100,1997,-0.003
+India,100,1998,0.702
+India,100,1999,0.556
+India,100,2000,0.412
+India,100,2001,0.445
+India,100,2002,0.805
+India,100,2003,0.674
+India,100,2004,0.595
+India,100,2005,0.53
+India,100,2006,0.65
+India,100,2007,0.639
+India,100,2008,0.292
+India,100,2009,1.212
+India,100,2010,1.219
+India,100,2011,0.526
+India,100,2012,0.591
+India,100,2013,0.51
+India,100,2014,0.693
+India,100,2015,0.769
+Iraq,103,1961,-0.131
+Iraq,103,1962,0.95
+Iraq,103,1963,0.386
+Iraq,103,1964,-0.794
+Iraq,103,1965,-0.155
+Iraq,103,1966,0.899
+Iraq,103,1967,-0.763
+Iraq,103,1968,-0.208
+Iraq,103,1969,0.262
+Iraq,103,1970,0.682
+Iraq,103,1971,-0.17
+Iraq,103,1972,-0.736
+Iraq,103,1973,-0.237
+Iraq,103,1974,-0.273
+Iraq,103,1975,-0.192
+Iraq,103,1976,-0.827
+Iraq,103,1977,0.289
+Iraq,103,1978,0.099
+Iraq,103,1979,1.179
+Iraq,103,1980,0.058
+Iraq,103,1981,0.142
+Iraq,103,1982,-0.513
+Iraq,103,1983,-0.742
+Iraq,103,1984,0.178
+Iraq,103,1985,0.097
+Iraq,103,1986,0.444
+Iraq,103,1987,0.317
+Iraq,103,1988,0.05
+Iraq,103,1989,0.323
+Iraq,103,1990,0.218
+Iraq,103,1991,0.317
+Iraq,103,1992,-1.241
+Iraq,103,1993,-0.634
+Iraq,103,1994,0.976
+Iraq,103,1995,0.196
+Iraq,103,1996,0.7
+Iraq,103,1997,0.145
+Iraq,103,1998,1.292
+Iraq,103,1999,1.61
+Iraq,103,2000,0.934
+Iraq,103,2001,1.075
+Iraq,103,2002,1.012
+Iraq,103,2003,0.732
+Iraq,103,2004,0.833
+Iraq,103,2005,0.289
+Iraq,103,2006,1.139
+Iraq,103,2007,0.678
+Iraq,103,2008,0.842
+Iraq,103,2009,0.512
+Iraq,103,2010,2.651
+Iraq,103,2011,0.757
+Iraq,103,2012,1.159
+Iraq,103,2013,0.96
+Iraq,103,2014,1.077
+Iraq,103,2015,1.875
+Japan,110,1961,0.62
+Japan,110,1962,0.091
+Japan,110,1963,-0.097
+Japan,110,1964,0.277
+Japan,110,1965,-0.485
+Japan,110,1966,0.054
+Japan,110,1967,0.062
+Japan,110,1968,-0.468
+Japan,110,1969,-0.018
+Japan,110,1970,-0.354
+Japan,110,1971,-0.312
+Japan,110,1972,0.259
+Japan,110,1973,0.352
+Japan,110,1974,-0.456
+Japan,110,1975,0.048
+Japan,110,1976,-0.487
+Japan,110,1977,-0.132
+Japan,110,1978,0.264
+Japan,110,1979,0.489
+Japan,110,1980,-0.175
+Japan,110,1981,-0.617
+Japan,110,1982,-0.017
+Japan,110,1983,0.125
+Japan,110,1984,-0.608
+Japan,110,1985,0.14
+Japan,110,1986,-0.67
+Japan,110,1987,0.335
+Japan,110,1988,-0.146
+Japan,110,1989,0.581
+Japan,110,1990,1.126
+Japan,110,1991,0.699
+Japan,110,1992,0.356
+Japan,110,1993,0.031
+Japan,110,1994,0.971
+Japan,110,1995,0.451
+Japan,110,1996,-0.075
+Japan,110,1997,0.531
+Japan,110,1998,1.2
+Japan,110,1999,0.981
+Japan,110,2000,0.692
+Japan,110,2001,0.493
+Japan,110,2002,0.7
+Japan,110,2003,0.362
+Japan,110,2004,1.196
+Japan,110,2005,0.73
+Japan,110,2006,0.408
+Japan,110,2007,1.054
+Japan,110,2008,0.696
+Japan,110,2009,0.821
+Japan,110,2010,0.951
+Japan,110,2011,0.67
+Japan,110,2012,0.501
+Japan,110,2013,0.683
+Japan,110,2014,0.635
+Japan,110,2015,0.86
+Kenya,114,1961,0.074
+Kenya,114,1962,-0.271
+Kenya,114,1963,-0.195
+Kenya,114,1964,-0.355
+Kenya,114,1965,-0.324
+Kenya,114,1966,0.191
+Kenya,114,1967,0.213
+Kenya,114,1968,-0.625
+Kenya,114,1969,0.267
+Kenya,114,1970,0.155
+Kenya,114,1971,-0.346
+Kenya,114,1972,0.273
+Kenya,114,1973,0.665
+Kenya,114,1974,-0.075
+Kenya,114,1975,0.001
+Kenya,114,1976,0.051
+Kenya,114,1977,0.39
+Kenya,114,1978,0.203
+Kenya,114,1979,0.229
+Kenya,114,1980,0.664
+Kenya,114,1981,0.344
+Kenya,114,1982,0.436
+Kenya,114,1983,0.857
+Kenya,114,1984,0.264
+Kenya,114,1985,0.104
+Kenya,114,1986,0.397
+Kenya,114,1987,0.892
+Kenya,114,1988,0.891
+Kenya,114,1989,0.199
+Kenya,114,1990,0.336
+Kenya,114,1991,0.295
+Kenya,114,1992,0.436
+Kenya,114,1993,0.121
+Kenya,114,1994,0.362
+Kenya,114,1995,0.343
+Kenya,114,1996,0.412
+Kenya,114,1997,0.272
+Kenya,114,1998,0.39
+Kenya,114,1999,0.704
+Kenya,114,2000,0.572
+Kenya,114,2001,0.343
+Kenya,114,2002,0.771
+Kenya,114,2003,0.872
+Kenya,114,2004,0.402
+Kenya,114,2005,0.105
+Kenya,114,2006,0.881
+Kenya,114,2007,0.342
+Kenya,114,2008,0.457
+Kenya,114,2009,1.288
+Kenya,114,2010,0.926
+Kenya,114,2011,0.774
+Kenya,114,2012,0.685
+Kenya,114,2013,0.696
+Kenya,114,2014,0.991
+Kenya,114,2015,0.998
+Republic of Korea,117,1961,0.674
+Republic of Korea,117,1962,-0.085
+Republic of Korea,117,1963,-0.503
+Republic of Korea,117,1964,0.595
+Republic of Korea,117,1965,-0.212
+Republic of Korea,117,1966,0.05
+Republic of Korea,117,1967,0.119
+Republic of Korea,117,1968,-0.742
+Republic of Korea,117,1969,-0.268
+Republic of Korea,117,1970,-0.504
+Republic of Korea,117,1971,-0.191
+Republic of Korea,117,1972,-0.052
+Republic of Korea,117,1973,0.516
+Republic of Korea,117,1974,-0.811
+Republic of Korea,117,1975,0.53
+Republic of Korea,117,1976,-0.528
+Republic of Korea,117,1977,0.032
+Republic of Korea,117,1978,0.728
+Republic of Korea,117,1979,0.556
+Republic of Korea,117,1980,-0.501
+Republic of Korea,117,1981,-0.779
+Republic of Korea,117,1982,0.385
+Republic of Korea,117,1983,0.406
+Republic of Korea,117,1984,-0.321
+Republic of Korea,117,1985,0.252
+Republic of Korea,117,1986,-0.811
+Republic of Korea,117,1987,0.341
+Republic of Korea,117,1988,0.184
+Republic of Korea,117,1989,0.7
+Republic of Korea,117,1990,1.15
+Republic of Korea,117,1991,0.222
+Republic of Korea,117,1992,0.568
+Republic of Korea,117,1993,0.024
+Republic of Korea,117,1994,1.342
+Republic of Korea,117,1995,0.538
+Republic of Korea,117,1996,0.083
+Republic of Korea,117,1997,0.869
+Republic of Korea,117,1998,1.624
+Republic of Korea,117,1999,1.155
+Republic of Korea,117,2000,0.616
+Republic of Korea,117,2001,1.052
+Republic of Korea,117,2002,0.816
+Republic of Korea,117,2003,0.775
+Republic of Korea,117,2004,1.319
+Republic of Korea,117,2005,0.887
+Republic of Korea,117,2006,0.6
+Republic of Korea,117,2007,1.278
+Republic of Korea,117,2008,1.049
+Republic of Korea,117,2009,1.055
+Republic of Korea,117,2010,0.653
+Republic of Korea,117,2011,0.416
+Republic of Korea,117,2012,0.59
+Republic of Korea,117,2013,0.652
+Republic of Korea,117,2014,1.234
+Republic of Korea,117,2015,1.036
+Russian Federation,185,1992,0.395
+Russian Federation,185,1993,0.969
+Russian Federation,185,1994,0.512
+Russian Federation,185,1995,2.096
+Russian Federation,185,1996,0.814
+Russian Federation,185,1997,1.32
+Russian Federation,185,1998,0.145
+Russian Federation,185,1999,0.548
+Russian Federation,185,2000,1.33
+Russian Federation,185,2001,0.816
+Russian Federation,185,2002,1.704
+Russian Federation,185,2003,0.988
+Russian Federation,185,2004,1.601
+Russian Federation,185,2005,1.581
+Russian Federation,185,2006,0.387
+Russian Federation,185,2007,2.461
+Russian Federation,185,2008,2.118
+Russian Federation,185,2009,1.042
+Russian Federation,185,2010,0.766
+Russian Federation,185,2011,1.522
+Russian Federation,185,2012,1.669
+Russian Federation,185,2013,1.107
+Russian Federation,185,2014,1.752
+Russian Federation,185,2015,2.189
+South Africa,202,1961,0.265
+South Africa,202,1962,0.231
+South Africa,202,1963,0.149
+South Africa,202,1964,-0.059
+South Africa,202,1965,-0.021
+South Africa,202,1966,0.261
+South Africa,202,1967,-0.064
+South Africa,202,1968,-0.348
+South Africa,202,1969,0.333
+South Africa,202,1970,0.347
+South Africa,202,1971,-0.149
+South Africa,202,1972,0.163
+South Africa,202,1973,0.337
+South Africa,202,1974,-0.311
+South Africa,202,1975,-0.2
+South Africa,202,1976,-0.552
+South Africa,202,1977,0.088
+South Africa,202,1978,-0.044
+South Africa,202,1979,0.241
+South Africa,202,1980,0.161
+South Africa,202,1981,-0.368
+South Africa,202,1982,0.14
+South Africa,202,1983,0.639
+South Africa,202,1984,0.488
+South Africa,202,1985,0.581
+South Africa,202,1986,0.361
+South Africa,202,1987,0.641
+South Africa,202,1988,0.302
+South Africa,202,1989,-0.032
+South Africa,202,1990,0.288
+South Africa,202,1991,0.351
+South Africa,202,1992,0.757
+South Africa,202,1993,0.814
+South Africa,202,1994,0.14
+South Africa,202,1995,0.582
+South Africa,202,1996,-0.165
+South Africa,202,1997,0.168
+South Africa,202,1998,0.718
+South Africa,202,1999,1.077
+South Africa,202,2000,0.269
+South Africa,202,2001,0.515
+South Africa,202,2002,0.324
+South Africa,202,2003,0.613
+South Africa,202,2004,0.747
+South Africa,202,2005,0.945
+South Africa,202,2006,0.285
+South Africa,202,2007,0.695
+South Africa,202,2008,0.574
+South Africa,202,2009,0.677
+South Africa,202,2010,0.892
+South Africa,202,2011,0.358
+South Africa,202,2012,0.319
+South Africa,202,2013,0.37
+South Africa,202,2014,0.563
+South Africa,202,2015,0.837
+Spain,203,1961,0.747
+Spain,203,1962,0.366
+Spain,203,1963,-0.21
+Spain,203,1964,0.454
+Spain,203,1965,-0.221
+Spain,203,1966,0.346
+Spain,203,1967,0.108
+Spain,203,1968,0.088
+Spain,203,1969,-0.248
+Spain,203,1970,0.187
+Spain,203,1971,-0.647
+Spain,203,1972,-0.737
+Spain,203,1973,-0.104
+Spain,203,1974,-0.421
+Spain,203,1975,-0.104
+Spain,203,1976,-0.392
+Spain,203,1977,-0.241
+Spain,203,1978,0.027
+Spain,203,1979,0.209
+Spain,203,1980,0.115
+Spain,203,1981,0.245
+Spain,203,1982,0.62
+Spain,203,1983,0.538
+Spain,203,1984,-0.227
+Spain,203,1985,0.387
+Spain,203,1986,0.2
+Spain,203,1987,0.646
+Spain,203,1988,0.707
+Spain,203,1989,0.962
+Spain,203,1990,1.389
+Spain,203,1991,0.115
+Spain,203,1992,0.124
+Spain,203,1993,-0.187
+Spain,203,1994,0.829
+Spain,203,1995,1.257
+Spain,203,1996,0.493
+Spain,203,1997,1.279
+Spain,203,1998,1.015
+Spain,203,1999,0.59
+Spain,203,2000,0.598
+Spain,203,2001,1.166
+Spain,203,2002,0.568
+Spain,203,2003,1.349
+Spain,203,2004,0.695
+Spain,203,2005,0.522
+Spain,203,2006,1.216
+Spain,203,2007,0.553
+Spain,203,2008,0.526
+Spain,203,2009,0.969
+Spain,203,2010,0.513
+Spain,203,2011,1.126
+Spain,203,2012,0.605
+Spain,203,2013,0.54
+Spain,203,2014,1.247
+Spain,203,2015,0.906
+Syrian Arab Republic,212,1961,-0.06
+Syrian Arab Republic,212,1962,1.036
+Syrian Arab Republic,212,1963,0.457
+Syrian Arab Republic,212,1964,-0.753
+Syrian Arab Republic,212,1965,-0.265
+Syrian Arab Republic,212,1966,0.855
+Syrian Arab Republic,212,1967,-1.032
+Syrian Arab Republic,212,1968,-0.226
+Syrian Arab Republic,212,1969,0.123
+Syrian Arab Republic,212,1970,0.668
+Syrian Arab Republic,212,1971,-0.183
+Syrian Arab Republic,212,1972,-0.931
+Syrian Arab Republic,212,1973,-0.419
+Syrian Arab Republic,212,1974,-0.178
+Syrian Arab Republic,212,1975,-0.184
+Syrian Arab Republic,212,1976,-0.889
+Syrian Arab Republic,212,1977,0.121
+Syrian Arab Republic,212,1978,0.138
+Syrian Arab Republic,212,1979,0.908
+Syrian Arab Republic,212,1980,-0.225
+Syrian Arab Republic,212,1981,0.13
+Syrian Arab Republic,212,1982,-0.526
+Syrian Arab Republic,212,1983,-0.828
+Syrian Arab Republic,212,1984,0.083
+Syrian Arab Republic,212,1985,-0.016
+Syrian Arab Republic,212,1986,0.448
+Syrian Arab Republic,212,1987,-0.088
+Syrian Arab Republic,212,1988,-0.149
+Syrian Arab Republic,212,1989,0.412
+Syrian Arab Republic,212,1990,0.177
+Syrian Arab Republic,212,1991,0.496
+Syrian Arab Republic,212,1992,-1.22
+Syrian Arab Republic,212,1993,-0.587
+Syrian Arab Republic,212,1994,1.249
+Syrian Arab Republic,212,1995,0.161
+Syrian Arab Republic,212,1996,0.509
+Syrian Arab Republic,212,1997,-0.013
+Syrian Arab Republic,212,1998,1.259
+Syrian Arab Republic,212,1999,1.379
+Syrian Arab Republic,212,2000,0.786
+Syrian Arab Republic,212,2001,1.159
+Syrian Arab Republic,212,2002,0.855
+Syrian Arab Republic,212,2003,0.598
+Syrian Arab Republic,212,2004,0.787
+Syrian Arab Republic,212,2005,0.289
+Syrian Arab Republic,212,2006,1.02
+Syrian Arab Republic,212,2007,0.804
+Syrian Arab Republic,212,2008,1.038
+Syrian Arab Republic,212,2009,0.688
+Syrian Arab Republic,212,2010,2.614
+Syrian Arab Republic,212,2011,0.682
+Syrian Arab Republic,212,2012,1.08
+Syrian Arab Republic,212,2013,1.098
+Syrian Arab Republic,212,2014,1.023
+Syrian Arab Republic,212,2015,1.61
+United States of America,231,1961,0
+United States of America,231,1962,-0.11
+United States of America,231,1963,-0.022
+United States of America,231,1964,0.418
+United States of America,231,1965,-0.284
+United States of America,231,1966,-0.364
+United States of America,231,1967,-0.235
+United States of America,231,1968,0.06
+United States of America,231,1969,-0.1
+United States of America,231,1970,-0.267
+United States of America,231,1971,-0.032
+United States of America,231,1972,-0.42
+United States of America,231,1973,-0.261
+United States of America,231,1974,-0.011
+United States of America,231,1975,0.097
+United States of America,231,1976,-0.374
+United States of America,231,1977,-0.131
+United States of America,231,1978,0.409
+United States of America,231,1979,0.034
+United States of America,231,1980,-0.321
+United States of America,231,1981,0.416
+United States of America,231,1982,0.895
+United States of America,231,1983,-0.321
+United States of America,231,1984,0.574
+United States of America,231,1985,-0.223
+United States of America,231,1986,-0.015
+United States of America,231,1987,0.587
+United States of America,231,1988,0.931
+United States of America,231,1989,0.502
+United States of America,231,1990,0.327
+United States of America,231,1991,0.72
+United States of America,231,1992,0.579
+United States of America,231,1993,0.447
+United States of America,231,1994,0.01
+United States of America,231,1995,0.54
+United States of America,231,1996,0.689
+United States of America,231,1997,0.041
+United States of America,231,1998,0.427
+United States of America,231,1999,1.284
+United States of America,231,2000,0.792
+United States of America,231,2001,1.011
+United States of America,231,2002,0.769
+United States of America,231,2003,0.935
+United States of America,231,2004,1.024
+United States of America,231,2005,0.909
+United States of America,231,2006,1.183
+United States of America,231,2007,1.091
+United States of America,231,2008,1.147
+United States of America,231,2009,0.275
+United States of America,231,2010,0.413
+United States of America,231,2011,0.679
+United States of America,231,2012,0.593
+United States of America,231,2013,1.471
+United States of America,231,2014,0.621
+United States of America,231,2015,0.469
